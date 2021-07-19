@@ -1,4 +1,4 @@
-package com.DuduuStudio.BearSticker;
+package com.DuduuStudio.DuduuStickerWA;
 
 import android.content.Intent;
 import android.os.Bundle;

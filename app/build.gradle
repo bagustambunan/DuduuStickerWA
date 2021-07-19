@@ -7,11 +7,11 @@ android {
     }
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.DuduuStudio.BearSticker"
+        applicationId "com.DuduuStudio.DuduuStickerWA"
         minSdkVersion 15
         targetSdkVersion 30
-        versionCode 1
-        versionName "1.0"
+        versionCode 5
+        versionName "2.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
@@ -69,8 +69,8 @@ private void checkApplicationIdInDebug() {
     properties.load(project.rootProject.file('local.properties').newDataInputStream())
     def ignoreApplicationIdCheck = properties.getProperty('ignoreApplicationIdCheck')
     if (ignoreApplicationIdCheck == null) {
-//        if (android.defaultConfig.applicationId == "com.DuduuStudio.BearSticker") {
-//            throw new GradleException("Your applicationId is currently com.DuduuStudio.BearSticker, please change your applicationId to a different string in app/build.gradle in line 10")
+//        if (android.defaultConfig.applicationId == "com.DuduuStudio.DuduuStickerWA") {
+//            throw new GradleException("Your applicationId is currently com.DuduuStudio.DuduuStickerWA, please change your applicationId to a different string in app/build.gradle in line 10")
 //        }
     } else {
         println("application id check ignored")

@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.DuduuStudio.BearSticker;
+package com.DuduuStudio.DuduuStickerWA;
 
 import android.app.Dialog;
 import android.os.Bundle;

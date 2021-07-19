@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.DuduuStudio.BearSticker">
+    package="com.DuduuStudio.DuduuStickerWA">
 
     <application
-        android:name="com.DuduuStudio.BearSticker.StickerApplication"
+        android:name="com.DuduuStudio.DuduuStickerWA.StickerApplication"
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher"
@@ -15,37 +15,37 @@
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity
-            android:name="com.DuduuStudio.BearSticker.SplashActivity"
+            android:name="com.DuduuStudio.DuduuStickerWA.SplashActivity"
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.DuduuStudio.BearSticker.EntryActivity">
+        <activity android:name="com.DuduuStudio.DuduuStickerWA.EntryActivity">
         </activity>
 
-        <activity android:name="com.DuduuStudio.BearSticker.StickerPackListActivity" />
+        <activity android:name="com.DuduuStudio.DuduuStickerWA.StickerPackListActivity" />
         <activity
-            android:name="com.DuduuStudio.BearSticker.StickerPackDetailsActivity"
-            android:parentActivityName="com.DuduuStudio.BearSticker.StickerPackListActivity"
+            android:name="com.DuduuStudio.DuduuStickerWA.StickerPackDetailsActivity"
+            android:parentActivityName="com.DuduuStudio.DuduuStickerWA.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.DuduuStudio.BearSticker.StickerPackListActivity" />
+                android:value="com.DuduuStudio.DuduuStickerWA.StickerPackListActivity" />
         </activity>
         <activity
-            android:name="com.DuduuStudio.BearSticker.StickerPackInfoActivity"
+            android:name="com.DuduuStudio.DuduuStickerWA.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName="com.DuduuStudio.BearSticker.StickerPackDetailsActivity"
+            android:parentActivityName="com.DuduuStudio.DuduuStickerWA.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.DuduuStudio.BearSticker.StickerPackDetailsActivity" />
+                android:value="com.DuduuStudio.DuduuStickerWA.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name="com.DuduuStudio.BearSticker.StickerContentProvider"
+            android:name="com.DuduuStudio.DuduuStickerWA.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"

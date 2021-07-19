@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.DuduuStudio.BearSticker;
+package com.DuduuStudio.DuduuStickerWA;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -24,21 +24,21 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-import static com.DuduuStudio.BearSticker.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.ANIMATED_STICKER_PACK;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.AVOID_CACHE;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.IMAGE_DATA_VERSION;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.PUBLISHER_EMAIL;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.PUBLISHER_WEBSITE;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
-import static com.DuduuStudio.BearSticker.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.ANIMATED_STICKER_PACK;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.AVOID_CACHE;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.IMAGE_DATA_VERSION;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.PUBLISHER_EMAIL;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.PUBLISHER_WEBSITE;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
+import static com.DuduuStudio.DuduuStickerWA.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
 
 class StickerPackLoader {
 
