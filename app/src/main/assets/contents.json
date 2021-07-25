@@ -1,13 +1,13 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.DuduuStudio.BearSticker",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.DuduuStudio.DuduuStickerWA",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "Oh My Bear 1 Animated",
-      "name": "Oh My Bear 1 Animated",
+      "identifier": "Cute Duduu 1 Animated",
+      "name": "Cute Duduu 1 Animated",
       "publisher": "Duduu Studio",
-      "tray_image_file": "OhMyBear1.png",
-      "image_data_version": "1",
+      "tray_image_file": "CuteDuduu1.png",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "uptoduduu@gmail.com",
       "publisher_website": "https://www.instagram.com/duduufriends/",
@@ -50,11 +50,11 @@
       ]
     },
     {
-      "identifier": "Oh My Bear 2 Animated",
-      "name": "Oh My Bear 2 Animated",
+      "identifier": "Cute Duduu 2 Animated",
+      "name": "Cute Duduu 2 Animated",
       "publisher": "Duduu Studio",
-      "tray_image_file": "OhMyBear2.png",
-      "image_data_version": "1",
+      "tray_image_file": "CuteDuduu2.png",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "uptoduduu@gmail.com",
       "publisher_website": "https://www.instagram.com/duduufriends/",
@@ -97,11 +97,11 @@
       ]
     },
     {
-      "identifier": "Oh My Bear 3 Animated",
-      "name": "Oh My Bear 3 Animated",
+      "identifier": "Cute Duduu 3 Animated",
+      "name": "Cute Duduu 3 Animated",
       "publisher": "Duduu Studio",
-      "tray_image_file": "OhMyBear3.png",
-      "image_data_version": "1",
+      "tray_image_file": "CuteDuduu3.png",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "uptoduduu@gmail.com",
       "publisher_website": "https://www.instagram.com/duduufriends/",
@@ -144,10 +144,10 @@
       ]
     },
     {
-      "identifier": "Oh My Bear 4 English",
-      "name": "Oh My Bear 4 English",
+      "identifier": "Cute Duduu 4 A",
+      "name": "Cute Duduu 4 - Part 1",
       "publisher": "Duduu Studio",
-      "tray_image_file": "OhMyBear4.png",
+      "tray_image_file": "CuteDuduu4A.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "uptoduduu@gmail.com",
@@ -235,131 +235,21 @@
         {
           "image_file": "20.webp",
           "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["☕"," "]
         }
       ]
     },
     {
-      "identifier": "Oh My Bear 5 Animated",
-      "name": "Oh My Bear 5 Animated",
+      "identifier": "Cute Duduu 4 B",
+      "name": "Cute Duduu 4 - Part 2",
       "publisher": "Duduu Studio",
-      "tray_image_file": "OhMyBear5.png",
+      "tray_image_file": "CuteDuduu4B.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "uptoduduu@gmail.com",
       "publisher_website": "https://www.instagram.com/duduufriends/",
       "privacy_policy_website": "https://www.instagram.com/duduufriends/",
       "license_agreement_website": "https://www.instagram.com/duduufriends/",
-      "animated_sticker_pack": true,
-      "stickers": [
-        {
-          "image_file": "01.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "02.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "03.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "04.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "05.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "06.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "07.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "08.webp",
-          "emojis": ["☕"," "]
-        }
-      ]
-    },
-    {
-      "identifier": "Oh My Panda 1 Animated",
-      "name": "Oh My Panda 1 Animated",
-      "publisher": "Duduu Studio",
-      "tray_image_file": "OhMyPanda1.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "uptoduduu@gmail.com",
-      "publisher_website": "https://www.instagram.com/duduufriends/",
-      "privacy_policy_website": "https://www.instagram.com/duduufriends/",
-      "license_agreement_website": "https://www.instagram.com/duduufriends/",
-      "animated_sticker_pack": true,
-      "stickers": [
-        {
-          "image_file": "01.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "02.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "03.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "04.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "05.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "06.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "07.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "08.webp",
-          "emojis": ["☕"," "]
-        }
-      ]
-    },
-    {
-      "identifier": "Jun Bear Animated",
-      "name": "Jun Bear Animated",
-      "publisher": "Duduu Studio",
-      "tray_image_file": "JunBear.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "uptoduduu@gmail.com",
-      "publisher_website": "https://www.instagram.com/duduufriends/",
-      "privacy_policy_website": "https://www.instagram.com/duduufriends/",
-      "license_agreement_website": "https://www.instagram.com/duduufriends/",
-      "animated_sticker_pack": true,
+      "animated_sticker_pack": false,
       "stickers": [
         {
           "image_file": "01.webp",
@@ -439,69 +329,6 @@
         },
         {
           "image_file": "20.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["☕"," "]
-        }
-      ]
-    },
-    {
-      "identifier": "Baby Kiko Animated",
-      "name": "Baby Kiko Animated",
-      "publisher": "Duduu Studio",
-      "tray_image_file": "BabyKiko.png",
-      "image_data_version": "2",
-      "avoid_cache": false,
-      "publisher_email": "uptoduduu@gmail.com",
-      "publisher_website": "https://www.instagram.com/duduufriends/",
-      "privacy_policy_website": "https://www.instagram.com/duduufriends/",
-      "license_agreement_website": "https://www.instagram.com/duduufriends/",
-      "animated_sticker_pack": true,
-      "stickers": [
-        {
-          "image_file": "01.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "02.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "03.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "04.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "05.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "06.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "07.webp",
-          "emojis": ["☕"," "]
-        },
-        {
-          "image_file": "08.webp",
           "emojis": ["☕"," "]
         }
       ]
