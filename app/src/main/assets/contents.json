@@ -537,6 +537,53 @@
           "emojis": ["☕"," "]
         }
       ]
+    },
+    {
+      "identifier": "Baby Kiki Animated",
+      "name": "Baby Kiki Animated",
+      "publisher": "Duduu Studio",
+      "tray_image_file": "BabyKiki.png",
+      "image_data_version": "2",
+      "avoid_cache": false,
+      "publisher_email": "uptoduduu@gmail.com",
+      "publisher_website": "https://www.instagram.com/duduufriends/",
+      "privacy_policy_website": "https://www.instagram.com/duduufriends/",
+      "license_agreement_website": "https://www.instagram.com/duduufriends/",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["☕"," "]
+        }
+      ]
     }
   ]
 }
