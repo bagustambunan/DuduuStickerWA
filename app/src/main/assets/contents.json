@@ -332,6 +332,117 @@
           "emojis": ["☕"," "]
         }
       ]
+    },
+    {
+      "identifier": "Oh My Bear 4",
+      "name": "Oh My Bear 4: Hi!",
+      "publisher": "Duduu Studio",
+      "tray_image_file": "OhMyBear4.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "uptoduduu@gmail.com",
+      "publisher_website": "https://www.instagram.com/duduufriends/",
+      "privacy_policy_website": "https://www.instagram.com/duduufriends/",
+      "license_agreement_website": "https://www.instagram.com/duduufriends/",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["☕"," "]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["☕"," "]
+        }
+      ]
     }
   ]
 }
